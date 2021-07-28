@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/SPSSProcessor/Processor.py
+src/SPSSProcessor/__init__.py
+src/SPSSProcessor.egg-info/PKG-INFO
+src/SPSSProcessor.egg-info/SOURCES.txt
+src/SPSSProcessor.egg-info/dependency_links.txt
+src/SPSSProcessor.egg-info/top_level.txt
